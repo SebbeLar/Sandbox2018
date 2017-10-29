@@ -1,0 +1,11 @@
+{
+  "name": "RxJS",
+  "version": "1.0.0",
+  "description": "Testing RxJS",
+  "main": "index.js",
+  "author": "Sebastian Larsson",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^5.5.2"
+  }
+}
