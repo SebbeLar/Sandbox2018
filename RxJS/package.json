@@ -4,6 +4,9 @@
   "description": "Testing RxJS",
   "main": "index.js",
   "author": "Sebastian Larsson",
+  "scripts": {
+    "start": "webpack --watch"
+  },
   "license": "MIT",
   "dependencies": {
     "rxjs": "^5.5.2"
