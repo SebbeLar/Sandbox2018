@@ -1,0 +1,18 @@
+{
+  "name": "CssNext",
+  "version": "1.0.0",
+  "description": "Testing Css next and Post Css",
+  "main": "index.js",
+  "author": "Sebastian Larsson",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "file-loader": "^1.1.5",
+    "postcss": "^6.0.14",
+    "postcss-cssnext": "^3.0.2",
+    "postcss-import": "^11.0.0",
+    "postcss-loader": "^2.0.8",
+    "webpack": "^3.8.1"
+  }
+}
