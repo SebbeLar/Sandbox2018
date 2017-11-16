@@ -10,7 +10,7 @@ Rx.Observable.fromEvent(button, 'click')
   .subscribe((count) => console.log(`Clicked ${count} times!`));
 
 Rx.Observable.fromEvent(heading, 'mouseover')
-  .throttleTime(800)
+  .throttleTime(900)
   .subscribe(event => console.log(event));
 
 Rx.Observable.fromEvent(item, 'mouseover')
