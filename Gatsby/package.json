@@ -1,0 +1,11 @@
+{
+  "name": "Gatsby",
+  "version": "1.0.0",
+  "description": "Trying out Gatsby",
+  "main": "index.js",
+  "author": "Sebastian Larsson",
+  "license": "MIT",
+  "devDependencies": {
+    "gatsby-cli": "^1.1.22"
+  }
+}
