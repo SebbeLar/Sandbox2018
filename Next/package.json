@@ -1,0 +1,16 @@
+{
+  "name": "Next",
+  "version": "1.0.0",
+  "description": "Testing out Next",
+  "main": "index.js",
+  "author": "Sebastian Larsson",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "next": "^4.1.4",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1"
+  }
+}
